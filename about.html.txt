@@ -1,3 +1,4 @@
+HEAD
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -34,3 +35,41 @@
   </footer>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Us – Maanya - House Of Allure</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Maanya - House Of Allure</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="#">Shop</a>
+      <a href="about.html">About</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <section class="about">
+    <h2>Our Story</h2>
+    <p>
+      Founded in Delhi-NCR, Maanya - House Of Allure is a celebration of timeless beauty and craftsmanship.
+      Each piece is designed with love, inspired by tradition, and handcrafted to perfection.
+      We believe jewelry is more than adornment—it's a reflection of your soul.
+    </p>
+    <p>
+      From delicate gold necklaces to dazzling diamond earrings, our collections are made to
+      elevate your everyday elegance. Thank you for being part of our journey.
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Maanya - House Of Allure | India</p>
+  </footer>
+</body>
+</html>
+df726ef66ad86dbdc34e24064205e0c07ffed3ec
