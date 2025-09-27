@@ -1,3 +1,8 @@
-HEAD
 "# Maanya-Website1" 
-df726ef66ad86dbdc34e24064205e0c07ffed3ec
+
+A premium jewellery brand website.
+
+Features
+- Home page
+- About page
+- Stylish CSS
